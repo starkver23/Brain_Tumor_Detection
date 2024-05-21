@@ -83,7 +83,7 @@ Navigate to the notebook file (e.g., brain_tumor_detection.ipynb) and run the ce
 Running Python Script
 If your project is a Python script, you can run it directly:
 
-python brain_tumor_detection.py
+python brain_tumor_detection.ipynb
 
 6. Make Predictions (Optional)
 If you want to make predictions using the trained model, ensure you have an image to test and use the code provided to load and predict the image.
